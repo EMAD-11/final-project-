@@ -1,0 +1,39 @@
+Abstract..
+ 
+  This project is for predicting the price of any given cryptocurrency for example Ethereum (ETH), Bitcoin (BTC). I will talk here about ( Ethereum ) to see if it can be ? and also to read the related comments from twitter and know the feedback about encouraging to invest or not by NLP.
+
+DATA..
+
+  The data will be provided from Yahoo Finance which is one of the most reliable financial resource, live data.
+
+Design..
+ 
+  In this project  data from the Yahoo Finance API about the given cryptocurrency which is updated and fully Historical, then analyse that data with Machine Learning (AI). To our help, Python will contribute as the coding language and we will use several libraries for predicting Such as:
+
+ • Pandas for date manipulation and operations.
+
+ • Pandas data reader for reading data from a source e.g. Yahoo.
+
+ • NumPy for math operations and data organized.
+
+ • Matplotlib for visualization.
+
+ • TensorFlow for Neural Networks.
+
+ • Sklearn for processing data.
+ 
+ 
+ALgorithms..
+
+  Linear Regression
+  
+
+
+TOOLS..
+ Numpy and Pandas
+ NLP 
+ tweepy
+ 
+
+
+As far as the data section goes, the data will be provided by Yahoo finance API through for which we will use Pandas Datareader. This resource will give us the comparative price of the any given cryptocurrency with the US Dollar. Alongside that, we will get the past data of the cryptocurrencies as well for predictions like any quarter of the year which is another feature.
